@@ -1,0 +1,23 @@
+form{
+  padding: 5rem;
+  margin:10rem;
+  margin-top:0;
+}
+
+.greeting{
+  text-align: center;
+  margin-top: 3rem;
+}
+.instructions{
+  text-align: center;
+}
+.continue{
+  text-align: center;
+  padding: 2rem;
+}
+.row{
+  margin-bottom:1rem;
+}
+.edu{
+  margin-bottom:0;
+}
